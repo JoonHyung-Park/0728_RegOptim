@@ -18,7 +18,7 @@
 
 2. Git repository clone 후 해당 폴더로 이동 
 ```
-git https://github.com/JoonHyung-Park/Samsung2020_MLI_RegOptim.git
+git clone https://github.com/JoonHyung-Park/Samsung2020_MLI_RegOptim.git
 cd Samsung2020_MLI_RegOptim
 ```
 
@@ -31,9 +31,9 @@ conda activate kaist_mli
 
 4. Jupyter notebook 실행
 ```
-jupyter notebook -port 9000(or 9999)
+jupyter notebook --port 9000(or 9999)
 ```
 > (1차 과정: 9000 , 2차 과정: 9999)
 
-5. 첫번째 실습 파일 (01_01_without_regularization)로 이동합니다. 
+5. 첫번째 실습 파일 (01_01_without_regularization.ipynb)로 이동합니다. 
 
