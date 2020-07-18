@@ -1,6 +1,6 @@
-# Samsung2020-DeepLearning Regularization and Optimization (2020_07)
+## Samsung2020-DeepLearning Regularization and Optimization (2020_07)
 
-## 실습 시작하기
+### 실습 시작하기
 
 1. Git repository clone 후 해당 폴더로 이동 
 ```
