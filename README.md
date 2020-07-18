@@ -9,8 +9,9 @@ cd Samsung2020_MLI_RegOptim
 ```
 
 2. 가상 환경 activate
-```
+
 ~~conda env create -f env.yml~~
+```
 conda activate kaist
 ```
 
