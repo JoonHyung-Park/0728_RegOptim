@@ -34,5 +34,6 @@ conda activate kaist_mli
 jupyter notebook -port 9000(or 9999)
 ```
 (1차 과정: 9000 , 2차 과정: 9999)
+
 5. 첫번째 실습 파일 (01_01_without_regularization)로 이동합니다. 
 
