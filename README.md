@@ -13,23 +13,18 @@
     ssh -X -p 2222 com**02@143.248.159.**
     source ~/.bashrc
     ```
-    
-
-
-2. Git repository clone 후 해당 폴더로 이동 
-```
-git clone https://github.com/JoonHyung-Park/Samsung2020_MLI_RegOptim.git
-cd Samsung2020_MLI_RegOptim
-```
-
-3. 가상 환경 activate
-
-> ~~conda env create -f env.yml~~
+2. 가상 환경 activate
 ```
 conda activate kaist_mli
 ```
 
-4. Jupyter notebook 실행
+3. Jupyter notebook 설치 
+```
+conda install jupyter
+```
+
+
+4. Jupyter notebook 실행 
 ```
 jupyter notebook --port 9000(or 9999)
 ```
