@@ -22,13 +22,16 @@ conda activate kaist_mli
 ```
 conda install jupyter
 ```
+4. 실습 디렉토리로 이동
+```
+cd Samsung2020_MLI_RegOptim
+```
 
-
-4. Jupyter notebook 실행 
+5. Jupyter notebook 실행 
 ```
 jupyter notebook --port 9000(or 9999)
 ```
 > (1차 과정: 9000 , 2차 과정: 9999)
 
-5. 첫번째 실습 파일 (01_01_without_regularization.ipynb)로 이동합니다. 
+6. 첫번째 실습 파일 (01_01_without_regularization.ipynb)로 이동합니다. 
 
